@@ -1,10 +1,6 @@
 # TrueCoin Bot by CryptSmile
 
-![TrueCoin Bot](https://your-image-url-here) <!-- Add an image or logo for your project -->
-
-## Introduction
-
-Welcome to the TrueCoin Bot by CryptSmile! This bot is designed to interact with the True World API to automate the process of logging in and spinning for TrueCoins. It leverages Python, the `requests` library, and the `colorama` library to provide a user-friendly interface with colorful console outputs.
+![TrueCoin Bot](https://your-image-url-here)
 
 ## Features
 
@@ -24,3 +20,25 @@ You can install the required libraries using pip:
 
 ```bash
 pip install requests colorama
+```
+# Setup
+```bash
+git clone https://github.com/your-username/truecoin-bot.git
+cd truecoin-bot
+```
+
+```bash
+auth_key = [
+    'your_auth_key_1',
+    'your_auth_key_2'
+]
+user_id = [
+    your_user_id_1,
+    your_user_id_2
+]
+```
+
+#Run Bot
+```bash
+python truecoin.py
+```
