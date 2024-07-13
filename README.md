@@ -27,6 +27,7 @@ git clone https://github.com/your-username/truecoin-bot.git
 cd truecoin-bot
 ```
 
+Edit auth_key dan user_id sesuai telegram masing-masing
 ```bash
 auth_key = [
     'your_auth_key_1',
@@ -41,4 +42,23 @@ user_id = [
 #Run Bot
 ```bash
 python truecoin.py
+```
+
+contoh output bot:
+```bash
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+█▀▄▀█░▄▄▀█░██░█▀▄▄▀█▄░▄█░▄▄█░▄▀▄░██▄██░██░▄▄█
+█░█▀█░▀▀▄█░▀▀░█░▀▀░██░██▄▄▀█░█▄█░██░▄█░██░▄▄█
+██▄██▄█▄▄█▀▀▀▄█░█████▄██▄▄▄█▄███▄█▄▄▄█▄▄█▄▄▄█
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+*********************************************
+******** BOT TRUECOIN BY CRYPTSMILE *********
+*********************************************
+
+====================================
+Username        : sample_username
+Spin Tersisa    : 5
+Jumlah Truecoin : 1000
+====================================
+Menang sebanyak : 50 Coins
 ```
