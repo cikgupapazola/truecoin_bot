@@ -1,6 +1,6 @@
 # TrueCoin Bot by CryptSmile
 
-![TrueCoin Bot](https://your-image-url-here)
+![REGISTER TRUECOIN HERE]([https://your-image-url-here](https://t.me/true_coin_bot?start=5607929578))
 
 ## Features
 
